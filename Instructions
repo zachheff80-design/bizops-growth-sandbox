@@ -1,0 +1,8 @@
+Each day's work will live in a new file.
+To name a file, use the following name convention -> Day_description of task/function learned.SQL ->Example 01_basic_counts.sql
+To clarify, if what was worked on that day was not SQL, then the ending of the name should not include ".SQL"
+
+Commit Message:
+Start with a verb: Add, Update, Refactor, Remove, Fix
+Then, describe what changed -> basic count queries (this is what I learned on day1)
+Note* The description should be short. If I can't synthesize what I did that day, then I did not digest the topic well enough, and I need to spend more time learning it.
