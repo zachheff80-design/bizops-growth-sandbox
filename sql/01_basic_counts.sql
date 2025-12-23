@@ -21,3 +21,6 @@ SELECT
   COUNT(*) AS total_products
 FROM 
   `bigquery-public-data.thelook_ecommerce.products`;
+
+--Goal - Write 5 Queries that pull revenue by location. 
+--Use a variety of the following commands: AND, OR, DISTINCT, WHERE, LIMIT
